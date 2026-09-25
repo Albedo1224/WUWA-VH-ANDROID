@@ -21,6 +21,8 @@
 ## Lưu ý nên sử dụng bản [shizuku ](https://github.com/RikkaApps/Shizuku/releases/latest) mới nhất tại đây [https://github.com/RikkaApps/Shizuku/releases/latest](https://github.com/RikkaApps/Shizuku/releases/latest) để  tránh gặp lỗi
 ## Donate 
 
+# SCAMER INFO
+
 ### MoMo
 <a href="https://me.momo.vn/ngdnguyen">
   <img src="https://img.shields.io/badge/MoMo-Ủng%20hộ-d82d8b?style=for-the-badge&logo=monero&logoColor=white"/>
@@ -28,7 +30,7 @@
 https://me.momo.vn/ngdnguyen
 
 ### MB Bank
-STK: 6196969696969  
+STK: 6196969696969  --- SCAMER
 <p>
   <img src="https://img.vietqr.io/image/MB-6196969696969-qr_only.png" width="300">
 </p>
