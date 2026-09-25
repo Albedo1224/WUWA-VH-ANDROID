@@ -1,4 +1,4 @@
-# WUWA VIỆT HOÁ ANDROID
+# WUWA VIỆT HOÁ ANDROID (DONT USE IT)
 
 <a href="https://discord.gg">
   <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?logo=discord&logoColor=white&style=for-the-badge"/>
